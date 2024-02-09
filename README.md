@@ -54,7 +54,7 @@
 
 # Установка
 
-- `git clone git@github.com:EpicByteMasters/7-command-frontend.git` - клонируйте репозиторий;
+- `git clone https://github.com/DannyOhDanny/7-command-frontend.git` - клонируйте репозиторий;
 
 - `cd 7-command-frontend` - локальный запуск приложения на порте `http://localhost:3000`;
 
